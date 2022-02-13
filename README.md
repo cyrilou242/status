@@ -1,5 +1,7 @@
-# cState Site v5.0.5
+# catheu.tech services status page
+[Useful doc here](https://github.com/cstate/cstate/wiki/Usage#adding-or-editing-pages)
 
+# Reference
 This is the default cState status page website directory/folder.
 
 * Example site repository link (you are here): https://github.com/cstate/example
