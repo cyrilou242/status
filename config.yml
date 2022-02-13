@@ -143,12 +143,13 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
-      closed: true
-    - name: Empty Category
-    - name: Uncategorized
+    - name: main
       untitled: true
+    - name: Shortlinks
+      description: Shortlinks. Used for presentations.
+      closed: true
+    - name: Other
+      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -160,19 +161,25 @@ params:
   systems:
     - name: Blog
       description: My personal blog.
-      category: Uncategorized
       link: https://catheu.tech/
+      category: main
     - name: Grafana
       description: Personal Grafana with Strava and Banque de France dashboards.
       link: https://pi.catheu.tech/
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
+      category: main
+    - name: Aurial App
+      description: Subsonic web app - with music caching.
+      link: https://aurial2.catheu.tech/
+      category: main
+    - name: mockseries documentation
+      description: Documentation of the mockseries python package.
+      link: https://mockseries.catheu.tech/
+############ Other
     - name: Aurial - Simple
       description: Simple Subsonic web client.
       link: https://aurial.catheu.tech/
-    - name: Aurial - App
-      description: Subsonic web app - with music caching.
-      link: https://aurial2.catheu.tech/
+      category: Other
+############# Shortlinks
     - name: ThirdEye OSS architecture
       description: Link to ThirdEye OSS architecture at AB Tasty blog.
       link: https://thirdeye-archi.catheu.tech/
