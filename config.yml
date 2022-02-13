@@ -167,7 +167,7 @@ params:
       description: Personal Grafana with Strava and Banque de France dashboards.
       link: https://pi.catheu.tech/
       category: main
-    - name: mockseries documentation
+    - name: Mockseries doc
       description: Documentation of the mockseries python package.
       link: https://mockseries.catheu.tech/
       category: main
