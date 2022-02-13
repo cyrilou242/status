@@ -20,6 +20,7 @@
     for = "/*.json"
     [headers.values]
       Access-Control-Allow-Origin = "*"
+
     for = "/*.xml"
     [headers.values]
       Access-Control-Allow-Origin = "*"
