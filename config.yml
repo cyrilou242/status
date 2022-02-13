@@ -292,7 +292,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: Statuses of my personal services. Is this other-engineering? Yes.
 
   # Tabs on homepage
   # Uncomment to enable.
@@ -333,7 +333,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
+  brand: "#ff4e47"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
@@ -377,7 +377,7 @@ params:
   # the value to the default:
   #
   # Default: UA-00000000-1
-  googleAnalytics: UA-00000000-1
+  googleAnalytics: UA-143787397-1
 
 # These options affect the core of cState.
 # Please do not change them if you do not

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Unavailable Guilds & Connection Issues
 date: 2018-04-13 15:54:00
 resolved: true
