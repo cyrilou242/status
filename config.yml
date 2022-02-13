@@ -170,6 +170,7 @@ params:
     - name: mockseries documentation
       description: Documentation of the mockseries python package.
       link: https://mockseries.catheu.tech/
+      category: main
     - name: Aurial App
       description: Subsonic progressive web app - with music caching.
       link: https://aurial2.catheu.tech/
