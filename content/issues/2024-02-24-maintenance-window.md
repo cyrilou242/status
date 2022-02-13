@@ -4,7 +4,7 @@ date: 2021-09-24 00:00:00
 informational: true
 resolved: false
 pin: true 
-severity: down
+severity: disrupted
 affected:
   - Aurial API
   - Aurial App
