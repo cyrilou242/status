@@ -158,20 +158,30 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
+    - name: Blog
+      description: My personal blog.
       category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
+      link: https://catheu.tech/
+    - name: Grafana
+      description: Personal Grafana with Strava and Banque de France dashboards.
+      link: https://pi.catheu.tech/
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: Aurial - Simple
+      description: Simple Subsonic web client.
+      link: https://aurial.catheu.tech/
+    - name: Aurial - App
+      description: Subsonic web app - with music caching.
+      link: https://aurial2.catheu.tech/
+    - name: ThirdEye OSS architecture
+      description: Link to ThirdEye OSS architecture at AB Tasty blog.
+      link: https://thirdeye-archi.catheu.tech/
+      category: Shortlinks
+    - name: ThirdEye OSS timeseries
+      description: Link to ThirdEye OSS timeseries anomaly detection.
+      link: https://thirdeye-detect.catheu.tech/
+      category: Shortlinks
+
 
   # What date format to use?
   #
