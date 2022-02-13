@@ -167,13 +167,17 @@ params:
       description: Personal Grafana with Strava and Banque de France dashboards.
       link: https://pi.catheu.tech/
       category: main
-    - name: Aurial App
-      description: Subsonic web app - with music caching.
-      link: https://aurial2.catheu.tech/
-      category: main
     - name: mockseries documentation
       description: Documentation of the mockseries python package.
       link: https://mockseries.catheu.tech/
+    - name: Aurial App
+      description: Subsonic progressive web app - with music caching.
+      link: https://aurial2.catheu.tech/
+      category: main
+    - name: Aurial API
+      description: Subsonic backend.
+      link: https://music.catheu.tech/
+      category: main
 ############ Other
     - name: Aurial - Simple
       description: Simple Subsonic web client.
